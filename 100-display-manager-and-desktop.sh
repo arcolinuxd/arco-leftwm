@@ -60,11 +60,18 @@ dmenu
 feh
 leftwm
 leftwm-theme-git
+arcolinux-candy-beauty-git
 arcolinux-leftwm-git
+arcolinux-gtk3-arcolinux-candy-beauty-git
 arcolinux-config-all-desktops-git
+arcolinux-volumeicon-git
 polybar
 arcolinux-polybar-git
 arcolinux-logout-git
+nerd-fonts-source-code-pro
+volumeicon
+picom
+polkit-gnome
 )
 
 count=0
