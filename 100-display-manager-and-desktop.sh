@@ -72,6 +72,11 @@ nerd-fonts-source-code-pro
 volumeicon
 picom
 polkit-gnome
+ttf-fantasque-sans-mono
+ttf-iosevka-nerd
+ttf-material-design-iconic-font
+ttf-meslo-nerd-font-powerlevel10k
+rofi-theme-fonts
 )
 
 count=0
