@@ -55,6 +55,7 @@ func_category() {
 func_category Arcolinux-Desktop
 
 list=(
+arcolinux-dconf-all-desktops-git
 )
 
 count=0
