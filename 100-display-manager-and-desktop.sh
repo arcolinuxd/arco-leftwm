@@ -62,12 +62,12 @@ leftwm-dev-git
 leftwm-theme-git
 arcolinux-candy-beauty-git
 arcolinux-leftwm-git
-arcolinux-gtk3-arcolinux-candy-beauty-git
+#arcolinux-gtk3-arcolinux-candy-beauty-git
 arcolinux-config-all-desktops-git
 arcolinux-volumeicon-git
 polybar
 arcolinux-polybar-git
-arcolinux-logout-git
+archlinux-logout-git
 nerd-fonts-source-code-pro
 volumeicon
 picom
