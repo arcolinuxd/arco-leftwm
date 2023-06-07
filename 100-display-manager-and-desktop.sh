@@ -60,7 +60,7 @@ dmenu
 feh
 leftwm-dev-git
 leftwm-theme-git
-arcolinux-candy-beauty-git
+a-candy-beauty-icon-theme-git
 arcolinux-leftwm-git
 #arcolinux-gtk3-arcolinux-candy-beauty-git
 arcolinux-config-all-desktops-git
