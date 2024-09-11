@@ -70,7 +70,7 @@ done
 func_category Development
 
 list=(
-atom
+codeS
 meld
 sublime-text-4
 )
