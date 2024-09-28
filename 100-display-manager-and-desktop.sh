@@ -58,7 +58,7 @@ arcolinux-local-xfce4-git
 sxhkd
 dmenu
 feh
-leftwm-dev-git
+leftwm-git
 leftwm-theme-git
 a-candy-beauty-icon-theme-git
 arcolinux-leftwm-git
